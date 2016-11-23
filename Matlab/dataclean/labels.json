@@ -1,0 +1,24 @@
+{
+	"labels": [
+		[
+			"",
+			"cfu\/100 ml",
+			"cfu\/100 ml",
+			"cfu\/ml",
+			"mgPt\/l",
+			"FNU",
+			"",
+			"mS\/m"
+		],
+		[
+			"PRØVETAKNINGSDATO",
+			"Koliforme bakterier",
+			"Termotol. koliforme",
+			"Kimtall v\/22°C",
+			"Fargetall",
+			"Turbiditet",
+			"pH, surhetsgrad",
+			"Konduktivitet\/Led.ev"
+		]
+	]
+}
